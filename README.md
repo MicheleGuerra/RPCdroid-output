@@ -1,4 +1,4 @@
-# RPCdroid-outputs
+# RPCdroid-output
 
 Example on Shazam
 ===============================
