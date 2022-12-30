@@ -1,0 +1,2551 @@
+{
+  "applicationPackage" : "com.shazam.android",
+  "logStartTime" : "2021-10-20T19:05:48.282",
+  "elements" : [ {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:05:48.766",
+    "elementId" : -783396549
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:05:48.944",
+    "elementId" : -609060421
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:05:48.956",
+    "elementId" : -595888965
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:05:48.984",
+    "elementId" : -565267525
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.RECORD_AUDIO",
+    "timestamp" : "2021-10-20T19:05:49.703",
+    "elementId" : -748825927
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.RECORD_AUDIO",
+    "timestamp" : "2021-10-20T19:05:49.709",
+    "elementId" : -746373063
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:05:49.734",
+    "elementId" : 177916732
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.RECORD_AUDIO",
+    "timestamp" : "2021-10-20T19:05:49.758",
+    "elementId" : -694741383
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:05:49.788",
+    "elementId" : 232973500
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_FINE_LOCATION",
+    "timestamp" : "2021-10-20T19:05:50.005",
+    "elementId" : -1134527198
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:05:50.3",
+    "elementId" : 744449212
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:05:50.617",
+    "elementId" : 1064982012
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:05:50.62",
+    "elementId" : 1070339260
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:05:50.622",
+    "elementId" : 1068286268
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:05:50.629",
+    "elementId" : 1078161660
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:05:50.631",
+    "elementId" : 1076096380
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:05:50.713",
+    "elementId" : 1161899516
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:05:50.735",
+    "elementId" : 1181810556
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:05:50.906",
+    "elementId" : 1354776636
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:05:50.911",
+    "elementId" : 1358201724
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:05:50.917",
+    "elementId" : 1360525564
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:05:50.928",
+    "elementId" : 1374669244
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:05:52.375",
+    "elementId" : -1473156740
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:05:52.656",
+    "elementId" : -1192158788
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:05:54.336",
+    "elementId" : 491644357
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:05:54.371",
+    "elementId" : 523750533
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:06:59.788",
+    "elementId" : 1519397036
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:06:59.788",
+    "elementId" : 1519397036
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:06:59.828",
+    "elementId" : 1554938540
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:06:59.832",
+    "elementId" : 1559331756
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:07:05.444",
+    "elementId" : -1418731851
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:07:05.729",
+    "elementId" : -1133207563
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:07:05.731",
+    "elementId" : -1135272843
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:07:05.812",
+    "elementId" : -1048513867
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:07:05.952",
+    "elementId" : -911657547
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:07:05.952",
+    "elementId" : -911657547
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:07:06.081",
+    "elementId" : -780560395
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:07:06.08",
+    "elementId" : -779594315
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:07:06.138",
+    "elementId" : -720152523
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:07:07.807",
+    "elementId" : 941120374
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:07:09.539",
+    "elementId" : -1621330826
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:07:09.54",
+    "elementId" : -1614029130
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:07:19.424",
+    "elementId" : -324420168
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:07:19.487",
+    "elementId" : -261553288
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:07:27.659",
+    "elementId" : -674111886
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:07:27.761",
+    "elementId" : -574735374
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:07:28.121",
+    "elementId" : -213299726
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.FOREGROUND_SERVICE",
+    "timestamp" : "2021-10-20T19:07:29.793",
+    "elementId" : 951391231
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.FOREGROUND_SERVICE",
+    "timestamp" : "2021-10-20T19:07:29.868",
+    "elementId" : 1027439807
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.FOREGROUND_SERVICE",
+    "timestamp" : "2021-10-20T19:07:30.82",
+    "elementId" : 1979570879
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.FOREGROUND_SERVICE",
+    "timestamp" : "2021-10-20T19:07:30.877",
+    "elementId" : 2040109823
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:07:33.858",
+    "elementId" : 1221915188
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:07:33.934",
+    "elementId" : 1305263412
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:07:33.96",
+    "elementId" : 1329692596
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:07:34.158",
+    "elementId" : 1525978420
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:07:34.364",
+    "elementId" : 1730938036
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:07:34.86",
+    "elementId" : -2070124364
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:07:34.884",
+    "elementId" : -2043765068
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:07:34.886",
+    "elementId" : -2037441740
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:07:35.103",
+    "elementId" : -1826602124
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.FOREGROUND_SERVICE",
+    "timestamp" : "2021-10-20T19:07:36.128",
+    "elementId" : -1298308672
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:07:36.729",
+    "elementId" : -197855756
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.FOREGROUND_SERVICE",
+    "timestamp" : "2021-10-20T19:07:38.275",
+    "elementId" : 849615017
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.FOREGROUND_SERVICE",
+    "timestamp" : "2021-10-20T19:07:38.291",
+    "elementId" : 858793129
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:07:38.886",
+    "elementId" : 1956922205
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:07:39.07",
+    "elementId" : 2141972829
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:07:39.12",
+    "elementId" : -2102349347
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:07:39.138",
+    "elementId" : -2086700451
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:07:39.153",
+    "elementId" : -2068161507
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:07:39.35",
+    "elementId" : -1870897315
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:07:51.404",
+    "elementId" : 1593946336
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:07:51.41",
+    "elementId" : 1596415584
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:07:51.519",
+    "elementId" : 1705536416
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:07:51.583",
+    "elementId" : 1767316384
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:08:24.758",
+    "elementId" : 586504040
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:08:24.809",
+    "elementId" : 636199464
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:08:24.81",
+    "elementId" : 635102312
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:08:24.901",
+    "elementId" : 728717608
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:08:24.962",
+    "elementId" : 793524840
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:08:30.594",
+    "elementId" : 2124003937
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:08:30.595",
+    "elementId" : 2131426465
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:08:30.605",
+    "elementId" : 2138272545
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:08:30.764",
+    "elementId" : -1997029151
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:08:34.099",
+    "elementId" : 1336914082
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:08:34.103",
+    "elementId" : 1341307298
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:08:34.104",
+    "elementId" : 1340339170
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:08:34.774",
+    "elementId" : 2012577634
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:08:34.778",
+    "elementId" : 2016970850
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:08:34.779",
+    "elementId" : 2015871650
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:08:34.827",
+    "elementId" : 2068584098
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:08:34.829",
+    "elementId" : 2066649890
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:08:34.83",
+    "elementId" : 2065552738
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:08:37.795",
+    "elementId" : 736380067
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:08:38.058",
+    "elementId" : 1001862243
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:08:38.07",
+    "elementId" : 1015043939
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:08:38.145",
+    "elementId" : 1090969635
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:08:38.147",
+    "elementId" : 1089035427
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:08:38.337",
+    "elementId" : 1276538915
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:08:42.012",
+    "elementId" : 663385316
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:08:42.019",
+    "elementId" : 664757412
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:08:42.021",
+    "elementId" : 671076644
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:08:42.024",
+    "elementId" : 676567012
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:08:42.027",
+    "elementId" : 673545892
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:08:42.028",
+    "elementId" : 672448740
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:08:42.03",
+    "elementId" : 678903140
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:08:42.214",
+    "elementId" : 863951716
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:08:42.216",
+    "elementId" : 862021604
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:08:42.218",
+    "elementId" : 868344932
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:08:42.221",
+    "elementId" : 865438500
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:08:42.223",
+    "elementId" : 871765924
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:08:42.226",
+    "elementId" : 877133412
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:08:42.227",
+    "elementId" : 876167332
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:08:42.258",
+    "elementId" : 903890532
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:08:42.263",
+    "elementId" : 915698084
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:08:43.696",
+    "elementId" : -1951768092
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:08:43.699",
+    "elementId" : -1946414940
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:08:43.7",
+    "elementId" : -1947383068
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:08:43.72",
+    "elementId" : -1925406748
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:08:43.725",
+    "elementId" : -1922112732
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:08:43.74",
+    "elementId" : -1903573788
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:08:43.743",
+    "elementId" : -1906480220
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:08:43.747",
+    "elementId" : -1902087004
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:08:43.751",
+    "elementId" : -1897685596
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:08:43.752",
+    "elementId" : -1890392092
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:08:44.733",
+    "elementId" : -916863196
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:08:44.735",
+    "elementId" : -910408796
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:08:44.737",
+    "elementId" : -912478172
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:08:44.74",
+    "elementId" : -906987804
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:08:44.741",
+    "elementId" : -908084956
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:08:44.743",
+    "elementId" : -901630556
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:08:44.748",
+    "elementId" : -898193180
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:08:44.75",
+    "elementId" : -900258460
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:08:44.771",
+    "elementId" : -879266652
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:08:51.76",
+    "elementId" : 1820541390
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:08:51.915",
+    "elementId" : 1975936654
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:08:51.917",
+    "elementId" : 1973871374
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:08:51.93",
+    "elementId" : 1986086990
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:08:51.93",
+    "elementId" : 1986086990
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:08:53.749",
+    "elementId" : -487260914
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:08:53.798",
+    "elementId" : -435516594
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:08:54.486",
+    "elementId" : 252100431
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:08:54.492",
+    "elementId" : 254559439
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:08:58.83",
+    "elementId" : 295363920
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:08:59",
+    "elementId" : 469296080
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:08:59.194",
+    "elementId" : 661200976
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:08:59.194",
+    "elementId" : 661200976
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:08:59.301",
+    "elementId" : 772256016
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:08:59.301",
+    "elementId" : 772256016
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.FOREGROUND_SERVICE",
+    "timestamp" : "2021-10-20T19:09:10.863",
+    "elementId" : -1057569898
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.FOREGROUND_SERVICE",
+    "timestamp" : "2021-10-20T19:09:11.009",
+    "elementId" : -909865962
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.FOREGROUND_SERVICE",
+    "timestamp" : "2021-10-20T19:09:28.158",
+    "elementId" : -937720478
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.FOREGROUND_SERVICE",
+    "timestamp" : "2021-10-20T19:09:28.238",
+    "elementId" : -858369694
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.FOREGROUND_SERVICE",
+    "timestamp" : "2021-10-20T19:09:32.268",
+    "elementId" : -1121901341
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.FOREGROUND_SERVICE",
+    "timestamp" : "2021-10-20T19:09:32.376",
+    "elementId" : -1020186653
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:09:34.832",
+    "elementId" : 1941418456
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:09:34.916",
+    "elementId" : 2025289432
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:09:35.186",
+    "elementId" : -2002823592
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:09:37.04",
+    "elementId" : -149079592
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.FOREGROUND_SERVICE",
+    "timestamp" : "2021-10-20T19:09:37.097",
+    "elementId" : -590615004
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.FOREGROUND_SERVICE",
+    "timestamp" : "2021-10-20T19:09:50.247",
+    "elementId" : -327229024
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.FOREGROUND_SERVICE",
+    "timestamp" : "2021-10-20T19:09:50.386",
+    "elementId" : -189406624
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:10:03.394",
+    "elementId" : 441145983
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:10:03.525",
+    "elementId" : 570181823
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:10:03.531",
+    "elementId" : 572503615
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:10:03.8",
+    "elementId" : 840453119
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:10:03.801",
+    "elementId" : 847877567
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:10:41.172",
+    "elementId" : -435428601
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:10:41.274",
+    "elementId" : -336056185
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:10:41.274",
+    "elementId" : -336056185
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:10:41.289",
+    "elementId" : -317519417
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:10:41.291",
+    "elementId" : -319449529
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:10:41.718",
+    "elementId" : 109123464
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:10:41.739",
+    "elementId" : 130131528
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:10:43.535",
+    "elementId" : 1924419400
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:10:43.728",
+    "elementId" : 2117294600
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.FOREGROUND_SERVICE",
+    "timestamp" : "2021-10-20T19:10:55.75",
+    "elementId" : 750221199
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.FOREGROUND_SERVICE",
+    "timestamp" : "2021-10-20T19:10:55.843",
+    "elementId" : 841771087
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.FOREGROUND_SERVICE",
+    "timestamp" : "2021-10-20T19:10:57.859",
+    "elementId" : -1434312625
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.FOREGROUND_SERVICE",
+    "timestamp" : "2021-10-20T19:10:57.973",
+    "elementId" : -1321885489
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:10:58.788",
+    "elementId" : 835332
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:10:59.126",
+    "elementId" : 333977476
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:10:59.127",
+    "elementId" : 333011268
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:10:59.361",
+    "elementId" : 568723396
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:10:59.361",
+    "elementId" : 568723396
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:10:59.355",
+    "elementId" : 566383172
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:10:59.578",
+    "elementId" : 787943556
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:11:03.502",
+    "elementId" : 420783469
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:11:03.505",
+    "elementId" : 417745837
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:11:28.238",
+    "elementId" : -617484950
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:11:47.975",
+    "elementId" : 1942406455
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:11:54.768",
+    "elementId" : 140622321
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:11:55.025",
+    "elementId" : 403782577
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:11:55.027",
+    "elementId" : 401721393
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:11:55.123",
+    "elementId" : 498769969
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:11:55.124",
+    "elementId" : 497670897
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:11:55.131",
+    "elementId" : 507546161
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:11:55.132",
+    "elementId" : 506449137
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:11:55.315",
+    "elementId" : 692596785
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:11:55.318",
+    "elementId" : 689567601
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:11:56.86",
+    "elementId" : -2060378895
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:11:56.878",
+    "elementId" : -2044869263
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:11:56.926",
+    "elementId" : -1992156815
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:11:56.927",
+    "elementId" : -1993125071
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:11:57.205",
+    "elementId" : -1717476175
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:11:57.259",
+    "elementId" : -1662425551
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.FOREGROUND_SERVICE",
+    "timestamp" : "2021-10-20T19:11:58.668",
+    "elementId" : -754844419
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:11:58.792",
+    "elementId" : -125231119
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.FOREGROUND_SERVICE",
+    "timestamp" : "2021-10-20T19:11:58.923",
+    "elementId" : -498140610
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.FOREGROUND_SERVICE",
+    "timestamp" : "2021-10-20T19:11:58.937",
+    "elementId" : -486893122
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_FINE_LOCATION",
+    "timestamp" : "2021-10-20T19:12:00.275",
+    "elementId" : -233801640
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_FINE_LOCATION",
+    "timestamp" : "2021-10-20T19:12:00.287",
+    "elementId" : -220624040
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_FINE_LOCATION",
+    "timestamp" : "2021-10-20T19:12:00.29",
+    "elementId" : -215264616
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_FINE_LOCATION",
+    "timestamp" : "2021-10-20T19:12:00.314",
+    "elementId" : -188903272
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:12:00.528",
+    "elementId" : 1611684338
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:12:00.53",
+    "elementId" : 1609623154
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:12:00.532",
+    "elementId" : 1616077554
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:12:00.535",
+    "elementId" : 1613041970
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:12:00.536",
+    "elementId" : 1612073970
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:12:00.553",
+    "elementId" : 1636938162
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:12:00.574",
+    "elementId" : 1657948530
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:12:00.591",
+    "elementId" : 1674546994
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:12:00.602",
+    "elementId" : 1680312434
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:12:00.627",
+    "elementId" : 1705574450
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:12:00.655",
+    "elementId" : 1736326962
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:12:00.672",
+    "elementId" : 1752933874
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:12:00.683",
+    "elementId" : 1767079474
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:12:00.697",
+    "elementId" : 1778195890
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:12:00.736",
+    "elementId" : 1814697458
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:12:00.751",
+    "elementId" : 1833236274
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:12:00.781",
+    "elementId" : 1861923506
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:12:00.796",
+    "elementId" : 1872205042
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:12:00.803",
+    "elementId" : 1881965618
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:12:00.824",
+    "elementId" : 1902826482
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.VIBRATE",
+    "timestamp" : "2021-10-20T19:12:01.083",
+    "elementId" : 77094754
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:12:01.189",
+    "elementId" : -2027269966
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:12:01.244",
+    "elementId" : -1973181198
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:12:01.257",
+    "elementId" : -1961098830
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:12:01.294",
+    "elementId" : -1922534030
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:12:01.311",
+    "elementId" : -1906050254
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:12:01.34",
+    "elementId" : -1876263694
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:12:01.419",
+    "elementId" : -1795959246
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:12:01.431",
+    "elementId" : -1782779598
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:12:01.456",
+    "elementId" : -1757380110
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:12:01.494",
+    "elementId" : -1719902350
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:12:01.503",
+    "elementId" : -1712092366
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:12:02.801",
+    "elementId" : -418024526
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.FOREGROUND_SERVICE",
+    "timestamp" : "2021-10-20T19:12:03.588",
+    "elementId" : -129942785
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:12:03.643",
+    "elementId" : 426080819
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_FINE_LOCATION",
+    "timestamp" : "2021-10-20T19:12:03.894",
+    "elementId" : -908335207
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_FINE_LOCATION",
+    "timestamp" : "2021-10-20T19:12:03.92",
+    "elementId" : -884041191
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_FINE_LOCATION",
+    "timestamp" : "2021-10-20T19:12:03.927",
+    "elementId" : -874278567
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_FINE_LOCATION",
+    "timestamp" : "2021-10-20T19:12:03.938",
+    "elementId" : -860142951
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:12:04.13",
+    "elementId" : 912163443
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:12:04.132",
+    "elementId" : 918482675
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:12:04.133",
+    "elementId" : 917516467
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:12:04.181",
+    "elementId" : 970233011
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:12:04.208",
+    "elementId" : 993563123
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:12:04.217",
+    "elementId" : 1001254323
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:12:04.22",
+    "elementId" : 1006611699
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:12:04.24",
+    "elementId" : 1028585971
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:12:04.26",
+    "elementId" : 1042157299
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:12:04.278",
+    "elementId" : 1066055539
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:12:04.374",
+    "elementId" : 1163104115
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:12:04.417",
+    "elementId" : 1203875763
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:12:04.471",
+    "elementId" : 1258932531
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:12:04.496",
+    "elementId" : 1284323827
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:12:04.54",
+    "elementId" : 1324260595
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:12:04.548",
+    "elementId" : 1333040883
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:12:04.575",
+    "elementId" : 1356368691
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:12:04.642",
+    "elementId" : 1423508083
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:12:04.667",
+    "elementId" : 1448901171
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:12:04.694",
+    "elementId" : 1480621939
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.VIBRATE",
+    "timestamp" : "2021-10-20T19:12:04.893",
+    "elementId" : -411016221
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:12:07.297",
+    "elementId" : -216457293
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_FINE_LOCATION",
+    "timestamp" : "2021-10-20T19:12:07.469",
+    "elementId" : -1631180071
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_FINE_LOCATION",
+    "timestamp" : "2021-10-20T19:12:07.478",
+    "elementId" : -1615108199
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_FINE_LOCATION",
+    "timestamp" : "2021-10-20T19:12:07.491",
+    "elementId" : -1602896807
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_FINE_LOCATION",
+    "timestamp" : "2021-10-20T19:12:07.493",
+    "elementId" : -1604957991
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:12:07.578",
+    "elementId" : 64534644
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:12:07.594",
+    "elementId" : 82105460
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:12:07.601",
+    "elementId" : 91866036
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:12:07.604",
+    "elementId" : 97348340
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:12:07.608",
+    "elementId" : 101741556
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:12:07.61",
+    "elementId" : 99688564
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:12:07.623",
+    "elementId" : 111891764
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:12:07.625",
+    "elementId" : 118225332
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:12:07.646",
+    "elementId" : 139219316
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:12:07.664",
+    "elementId" : 154726900
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:12:07.667",
+    "elementId" : 160096308
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:12:07.672",
+    "elementId" : 163521524
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:12:07.69",
+    "elementId" : 179022964
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:12:07.723",
+    "elementId" : 213212724
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:12:07.743",
+    "elementId" : 235176756
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:12:07.767",
+    "elementId" : 253018420
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:12:07.82",
+    "elementId" : 309156084
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:12:07.846",
+    "elementId" : 333450100
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:12:07.882",
+    "elementId" : 372997236
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.FOREGROUND_SERVICE",
+    "timestamp" : "2021-10-20T19:12:07.904",
+    "elementId" : -109049344
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:12:07.906",
+    "elementId" : 399348340
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:12:08.198",
+    "elementId" : 686113652
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:12:08.96",
+    "elementId" : 1450868212
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:12:08.963",
+    "elementId" : 1456225332
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:12:09.018",
+    "elementId" : 1510310004
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:12:09.019",
+    "elementId" : 1509210676
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:12:15.628",
+    "elementId" : -469239523
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.MODIFY_AUDIO_SETTINGS",
+    "timestamp" : "2021-10-20T19:12:16.17",
+    "elementId" : 2013207660
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:12:16.536",
+    "elementId" : 434695198
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_FINE_LOCATION",
+    "timestamp" : "2021-10-20T19:12:16.548",
+    "elementId" : -1138843836
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:12:16.56",
+    "elementId" : 461062686
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:12:16.876",
+    "elementId" : 774172958
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.MODIFY_AUDIO_SETTINGS",
+    "timestamp" : "2021-10-20T19:12:25.346",
+    "elementId" : -1693457810
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:12:25.387",
+    "elementId" : 693804640
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:12:35.463",
+    "elementId" : -2109332134
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:12:35.668",
+    "elementId" : -1903291622
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:12:35.826",
+    "elementId" : -1750917478
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:12:36.205",
+    "elementId" : -1366553894
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:12:36.203",
+    "elementId" : -1372877222
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:12:36.235",
+    "elementId" : -1337862566
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:12:36.4",
+    "elementId" : -1175608806
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:12:36.499",
+    "elementId" : -1073330086
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:12:36.744",
+    "elementId" : -831746022
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:12:40.68",
+    "elementId" : -1185855461
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:12:40.716",
+    "elementId" : -1154713317
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:12:52",
+    "elementId" : 1536607782
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:12:52.298",
+    "elementId" : 1842601126
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:12:52.311",
+    "elementId" : 1854816614
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.FOREGROUND_SERVICE",
+    "timestamp" : "2021-10-20T19:12:57.671",
+    "elementId" : -1876416141
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.FOREGROUND_SERVICE",
+    "timestamp" : "2021-10-20T19:12:57.753",
+    "elementId" : -1799001613
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.FOREGROUND_SERVICE",
+    "timestamp" : "2021-10-20T19:13:00.025",
+    "elementId" : 475619828
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.FOREGROUND_SERVICE",
+    "timestamp" : "2021-10-20T19:13:00.214",
+    "elementId" : 664095668
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:13:08.663",
+    "elementId" : 1021696354
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:13:08.876",
+    "elementId" : 1236531490
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:13:08.878",
+    "elementId" : 1234597282
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:13:08.968",
+    "elementId" : 1329063970
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:13:08.97",
+    "elementId" : 1327129762
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:13:08.981",
+    "elementId" : 1341275362
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:13:09.276",
+    "elementId" : 1633514786
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:13:09.432",
+    "elementId" : 1796199458
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:13:09.556",
+    "elementId" : 1915480866
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:13:10.958",
+    "elementId" : -979706462
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:13:11.041",
+    "elementId" : -894869534
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:13:13.486",
+    "elementId" : 1550644643
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:13:13.578",
+    "elementId" : 1643177123
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:13:15.318",
+    "elementId" : -910485597
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:13:15.342",
+    "elementId" : -884120157
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:13:23.402",
+    "elementId" : -1419559795
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:13:23.499",
+    "elementId" : -1323606451
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:13:28.336",
+    "elementId" : -775153138
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.FOREGROUND_SERVICE",
+    "timestamp" : "2021-10-20T19:13:28.437",
+    "elementId" : -1176751910
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:13:40.235",
+    "elementId" : -1760537015
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:13:40.402",
+    "elementId" : -1600352631
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:13:40.404",
+    "elementId" : -1594029303
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:13:40.448",
+    "elementId" : -1554090487
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:13:40.467",
+    "elementId" : -1531150263
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:13:41.141",
+    "elementId" : -854661943
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:13:41.221",
+    "elementId" : -775184183
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:13:41.304",
+    "elementId" : -698878967
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:13:41.306",
+    "elementId" : -692412279
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:13:42.182",
+    "elementId" : 184757130
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:13:42.265",
+    "elementId" : 269462986
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:13:43.324",
+    "elementId" : 1324397834
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:13:43.566",
+    "elementId" : 1569019274
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:13:45.219",
+    "elementId" : -1073857462
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:13:45.4",
+    "elementId" : -894176246
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.FOREGROUND_SERVICE",
+    "timestamp" : "2021-10-20T19:14:00.066",
+    "elementId" : 388001442
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.FOREGROUND_SERVICE",
+    "timestamp" : "2021-10-20T19:14:00.209",
+    "elementId" : 530214882
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:14:05.566",
+    "elementId" : 2092349847
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:14:05.568",
+    "elementId" : 2090425879
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:14:12.935",
+    "elementId" : 872199505
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:14:13.11",
+    "elementId" : 1049569169
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:14:13.112",
+    "elementId" : 1047634961
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:14:13.256",
+    "elementId" : 1188745233
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:14:13.256",
+    "elementId" : 1188745233
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:14:13.26",
+    "elementId" : 1193138449
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:14:13.263",
+    "elementId" : 1198505809
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:14:13.489",
+    "elementId" : 1425544145
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:14:13.491",
+    "elementId" : 1423491153
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:14:32.48",
+    "elementId" : -1056708803
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.MODIFY_AUDIO_SETTINGS",
+    "timestamp" : "2021-10-20T19:14:32.553",
+    "elementId" : 955165515
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:14:32.996",
+    "elementId" : -540848579
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:14:33.064",
+    "elementId" : -474674883
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:14:38.209",
+    "elementId" : 378241407
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.MODIFY_AUDIO_SETTINGS",
+    "timestamp" : "2021-10-20T19:14:38.492",
+    "elementId" : -1695384563
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:14:39.293",
+    "elementId" : 1458439807
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:14:39.75",
+    "elementId" : 1915830719
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.MODIFY_AUDIO_SETTINGS",
+    "timestamp" : "2021-10-20T19:14:43.736",
+    "elementId" : -748710642
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:14:43.974",
+    "elementId" : 1844208064
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_FINE_LOCATION",
+    "timestamp" : "2021-10-20T19:14:51.079",
+    "elementId" : -1227193312
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_FINE_LOCATION",
+    "timestamp" : "2021-10-20T19:14:51.085",
+    "elementId" : -1216335200
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_FINE_LOCATION",
+    "timestamp" : "2021-10-20T19:14:51.107",
+    "elementId" : -1196440288
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_FINE_LOCATION",
+    "timestamp" : "2021-10-20T19:14:51.108",
+    "elementId" : -1197396384
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.MODIFY_AUDIO_SETTINGS",
+    "timestamp" : "2021-10-20T19:14:52.966",
+    "elementId" : -105238136
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.MODIFY_AUDIO_SETTINGS",
+    "timestamp" : "2021-10-20T19:14:53.047",
+    "elementId" : -26849336
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.MODIFY_AUDIO_SETTINGS",
+    "timestamp" : "2021-10-20T19:14:57.366",
+    "elementId" : -588407
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.MODIFY_AUDIO_SETTINGS",
+    "timestamp" : "2021-10-20T19:14:59.575",
+    "elementId" : -2083803190
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.MODIFY_AUDIO_SETTINGS",
+    "timestamp" : "2021-10-20T19:14:59.858",
+    "elementId" : -1804734838
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.MODIFY_AUDIO_SETTINGS",
+    "timestamp" : "2021-10-20T19:15:00.111",
+    "elementId" : -1554356790
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.MODIFY_AUDIO_SETTINGS",
+    "timestamp" : "2021-10-20T19:15:03.932",
+    "elementId" : -2028334061
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.MODIFY_AUDIO_SETTINGS",
+    "timestamp" : "2021-10-20T19:15:06.731",
+    "elementId" : 776304339
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.MODIFY_AUDIO_SETTINGS",
+    "timestamp" : "2021-10-20T19:15:07.215",
+    "elementId" : 1256895955
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.MODIFY_AUDIO_SETTINGS",
+    "timestamp" : "2021-10-20T19:15:08.229",
+    "elementId" : -2021973932
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.MODIFY_AUDIO_SETTINGS",
+    "timestamp" : "2021-10-20T19:15:08.711",
+    "elementId" : -1539320876
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.MODIFY_AUDIO_SETTINGS",
+    "timestamp" : "2021-10-20T19:15:09.166",
+    "elementId" : -1088384108
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.MODIFY_AUDIO_SETTINGS",
+    "timestamp" : "2021-10-20T19:15:09.858",
+    "elementId" : -396244332
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.MODIFY_AUDIO_SETTINGS",
+    "timestamp" : "2021-10-20T19:15:12.408",
+    "elementId" : -2140957419
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.MODIFY_AUDIO_SETTINGS",
+    "timestamp" : "2021-10-20T19:15:13.013",
+    "elementId" : -1529527211
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.MODIFY_AUDIO_SETTINGS",
+    "timestamp" : "2021-10-20T19:15:13.892",
+    "elementId" : -655374827
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.MODIFY_AUDIO_SETTINGS",
+    "timestamp" : "2021-10-20T19:15:16.429",
+    "elementId" : 1882802773
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.MODIFY_AUDIO_SETTINGS",
+    "timestamp" : "2021-10-20T19:15:16.779",
+    "elementId" : -2065963306
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.MODIFY_AUDIO_SETTINGS",
+    "timestamp" : "2021-10-20T19:15:17.248",
+    "elementId" : -1595390186
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.MODIFY_AUDIO_SETTINGS",
+    "timestamp" : "2021-10-20T19:15:17.807",
+    "elementId" : -1030361642
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.MODIFY_AUDIO_SETTINGS",
+    "timestamp" : "2021-10-20T19:15:18.449",
+    "elementId" : -388887210
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.MODIFY_AUDIO_SETTINGS",
+    "timestamp" : "2021-10-20T19:15:19.142",
+    "elementId" : 302277014
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.MODIFY_AUDIO_SETTINGS",
+    "timestamp" : "2021-10-20T19:15:19.282",
+    "elementId" : 439002774
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.MODIFY_AUDIO_SETTINGS",
+    "timestamp" : "2021-10-20T19:15:19.462",
+    "elementId" : 619778454
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.MODIFY_AUDIO_SETTINGS",
+    "timestamp" : "2021-10-20T19:15:20.417",
+    "elementId" : 1577402710
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.MODIFY_AUDIO_SETTINGS",
+    "timestamp" : "2021-10-20T19:15:20.849",
+    "elementId" : 2009408847
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.MODIFY_AUDIO_SETTINGS",
+    "timestamp" : "2021-10-20T19:15:21.878",
+    "elementId" : -1259317873
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.MODIFY_AUDIO_SETTINGS",
+    "timestamp" : "2021-10-20T19:15:22.224",
+    "elementId" : -909124849
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.MODIFY_AUDIO_SETTINGS",
+    "timestamp" : "2021-10-20T19:15:22.86",
+    "elementId" : -278366193
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.MODIFY_AUDIO_SETTINGS",
+    "timestamp" : "2021-10-20T19:15:23.035",
+    "elementId" : -101139761
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.MODIFY_AUDIO_SETTINGS",
+    "timestamp" : "2021-10-20T19:15:23.934",
+    "elementId" : 795117455
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.MODIFY_AUDIO_SETTINGS",
+    "timestamp" : "2021-10-20T19:15:24.233",
+    "elementId" : 1100014415
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.MODIFY_AUDIO_SETTINGS",
+    "timestamp" : "2021-10-20T19:15:24.424",
+    "elementId" : 1286551823
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:15:25.949",
+    "elementId" : 872674946
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:15:26.154",
+    "elementId" : 1078729922
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:15:26.157",
+    "elementId" : 1075700354
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:15:26.213",
+    "elementId" : 1137207426
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:15:26.221",
+    "elementId" : 1145983618
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:15:26.846",
+    "elementId" : 1770854338
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:15:28.834",
+    "elementId" : -535852350
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:15:34.729",
+    "elementId" : 1060125572
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.MODIFY_AUDIO_SETTINGS",
+    "timestamp" : "2021-10-20T19:15:34.926",
+    "elementId" : -1095304302
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:15:35.518",
+    "elementId" : 1848201156
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:15:35.654",
+    "elementId" : 1989056964
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.MODIFY_AUDIO_SETTINGS",
+    "timestamp" : "2021-10-20T19:15:41.119",
+    "elementId" : 806668731
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:15:41.168",
+    "elementId" : -1092259027
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.MODIFY_AUDIO_SETTINGS",
+    "timestamp" : "2021-10-20T19:15:44.449",
+    "elementId" : -166037188
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:15:52.547",
+    "elementId" : 1697068272
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:15:52.712",
+    "elementId" : 1867575600
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:15:52.715",
+    "elementId" : 1864546032
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:15:52.731",
+    "elementId" : 1882116848
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:15:52.731",
+    "elementId" : 1882116848
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:15:53.177",
+    "elementId" : -1969592464
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:15:53.357",
+    "elementId" : -1788947856
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:16:00.058",
+    "elementId" : 620109994
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:16:00.059",
+    "elementId" : 619141866
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:16:00.061",
+    "elementId" : 625469034
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:16:00.065",
+    "elementId" : 629854570
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:16:00.07",
+    "elementId" : 633278890
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:16:00.072",
+    "elementId" : 631226666
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:16:00.074",
+    "elementId" : 637680810
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:16:00.076",
+    "elementId" : 635619370
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:16:00.08",
+    "elementId" : 640002858
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:16:00.083",
+    "elementId" : 645495018
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:16:00.691",
+    "elementId" : 1253757162
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:16:00.706",
+    "elementId" : 1263905450
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:16:00.713",
+    "elementId" : 1273797482
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:16:00.723",
+    "elementId" : 1288902890
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:16:00.729",
+    "elementId" : 1291241322
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:16:00.731",
+    "elementId" : 1289306858
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:16:00.736",
+    "elementId" : 1301116714
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:16:00.737",
+    "elementId" : 1300019562
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:16:00.74",
+    "elementId" : 1305517610
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:16:06.014",
+    "elementId" : -2013964373
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:16:06.246",
+    "elementId" : -1784579669
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:16:06.252",
+    "elementId" : -1773866965
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:16:06.255",
+    "elementId" : -1776896533
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:16:06.255",
+    "elementId" : -1776896533
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:16:06.691",
+    "elementId" : -1340365589
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:16:06.693",
+    "elementId" : -1334046613
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:16:06.836",
+    "elementId" : -1191835093
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:16:06.819",
+    "elementId" : -1208433429
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:16:12.861",
+    "elementId" : 534275701
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.MODIFY_AUDIO_SETTINGS",
+    "timestamp" : "2021-10-20T19:16:12.946",
+    "elementId" : -1727246717
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:16:13.466",
+    "elementId" : 1145559221
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:16:14.076",
+    "elementId" : 1751886901
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.MODIFY_AUDIO_SETTINGS",
+    "timestamp" : "2021-10-20T19:16:17.463",
+    "elementId" : -1504698428
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.MODIFY_AUDIO_SETTINGS",
+    "timestamp" : "2021-10-20T19:16:17.576",
+    "elementId" : -1391173372
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.MODIFY_AUDIO_SETTINGS",
+    "timestamp" : "2021-10-20T19:16:18.06",
+    "elementId" : -910581756
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.MODIFY_AUDIO_SETTINGS",
+    "timestamp" : "2021-10-20T19:16:19.317",
+    "elementId" : 349045828
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.MODIFY_AUDIO_SETTINGS",
+    "timestamp" : "2021-10-20T19:16:20.76",
+    "elementId" : 1791776004
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.MODIFY_AUDIO_SETTINGS",
+    "timestamp" : "2021-10-20T19:16:20.802",
+    "elementId" : 1833644676
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.MODIFY_AUDIO_SETTINGS",
+    "timestamp" : "2021-10-20T19:16:26.444",
+    "elementId" : -1115590650
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.MODIFY_AUDIO_SETTINGS",
+    "timestamp" : "2021-10-20T19:16:27.388",
+    "elementId" : -172256250
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.MODIFY_AUDIO_SETTINGS",
+    "timestamp" : "2021-10-20T19:16:27.847",
+    "elementId" : 283204550
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.MODIFY_AUDIO_SETTINGS",
+    "timestamp" : "2021-10-20T19:16:28.026",
+    "elementId" : 464828550
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.MODIFY_AUDIO_SETTINGS",
+    "timestamp" : "2021-10-20T19:16:29.01",
+    "elementId" : 1452236422
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.MODIFY_AUDIO_SETTINGS",
+    "timestamp" : "2021-10-20T19:16:30.597",
+    "elementId" : -1258868673
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.MODIFY_AUDIO_SETTINGS",
+    "timestamp" : "2021-10-20T19:16:32.758",
+    "elementId" : 900296063
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.MODIFY_AUDIO_SETTINGS",
+    "timestamp" : "2021-10-20T19:16:39.77",
+    "elementId" : -675934079
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.MODIFY_AUDIO_SETTINGS",
+    "timestamp" : "2021-10-20T19:16:42.443",
+    "elementId" : 1994575554
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.MODIFY_AUDIO_SETTINGS",
+    "timestamp" : "2021-10-20T19:16:42.534",
+    "elementId" : 2088186242
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.MODIFY_AUDIO_SETTINGS",
+    "timestamp" : "2021-10-20T19:16:46.506",
+    "elementId" : 1765219458
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.MODIFY_AUDIO_SETTINGS",
+    "timestamp" : "2021-10-20T19:16:47.144",
+    "elementId" : -1892662997
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.MODIFY_AUDIO_SETTINGS",
+    "timestamp" : "2021-10-20T19:16:49.025",
+    "elementId" : -7198357
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.MODIFY_AUDIO_SETTINGS",
+    "timestamp" : "2021-10-20T19:16:49.874",
+    "elementId" : 838254251
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.MODIFY_AUDIO_SETTINGS",
+    "timestamp" : "2021-10-20T19:16:50.421",
+    "elementId" : 1381852267
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:16:51.639",
+    "elementId" : 662673438
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:16:52.56",
+    "elementId" : 1578691422
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:16:52.604",
+    "elementId" : 1627016286
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:16:52.647",
+    "elementId" : 1667918878
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:16:52.656",
+    "elementId" : 1675617118
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:16:52.658",
+    "elementId" : 1682067166
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:16:52.745",
+    "elementId" : 1771162526
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:16:59.404",
+    "elementId" : -165013409
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.MODIFY_AUDIO_SETTINGS",
+    "timestamp" : "2021-10-20T19:16:59.488",
+    "elementId" : 1861009197
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:16:59.874",
+    "elementId" : 304460512
+  }, {
+    "@class" : "it.unimol.aiace.log.elements.PermissionCheckLogElement",
+    "permission" : "android.permission.ACCESS_NETWORK_STATE",
+    "timestamp" : "2021-10-20T19:16:59.938",
+    "elementId" : 366371552
+  } ],
+  "logId" : 1578172619
+}
